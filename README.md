@@ -1,2 +1,2 @@
 # TankBattle_2
-Heah tot head tank battle game in Unreal 4
+Head to head tank battle game in Unreal 4
